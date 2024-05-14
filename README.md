@@ -49,7 +49,7 @@ To mark a task as completed, follow these steps:
 1. Open the Todo Application.
 2. Once the task is created, it can be modified or deleted.
 3. Check the checkbox next to the task to indicate it has been completed.
-4. Lastly, click on the "Update" button to reflect the task's completed status.
+4. Lastly, click on the "Update" button to reflect the task's completed status...
 
 ## Screenshots
 
