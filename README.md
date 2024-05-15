@@ -26,7 +26,9 @@ mvnw spring-boot:run
 
 
 
+
 4. Once the application is running, open [http://localhost:8080](http://localhost:8080) and start managing your tasks!
+ -----
 
 ## Features
 
